@@ -1,0 +1,88 @@
+ 
+
+ 
+
+body { 
+
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    background-color: #939393;
+    padding: 0; 
+  
+  } 
+
+  header { 
+    text-align: center; 
+    background-color: black;
+  
+  }   
+  .titulo { 
+    font-family: "Times New Roman", serif; 
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    border: 5px solid black;
+  
+  } 
+  .conteudo { 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    margin-top: 50px; 
+  
+  } 
+  
+  .arthurfurt { 
+    width: 200px;
+    height: auto;
+  
+  } 
+  
+   
+  
+  .sobremim { 
+  
+    margin-top: 20px; 
+  
+    text-align: center; 
+  
+  } 
+  
+   
+  
+  .about-me h2 { 
+  
+    font-family: Verdana, sans-serif; 
+  
+    color: #333333; 
+  
+  } 
+  
+  .about-me p { 
+    margin-bottom: 5px; 
+  } 
+  
+  footer { 
+    background-color: #939393; 
+    padding: 10px; 
+    text-align: center;
+    border-top: #000000 solid 5px; 
+  } 
+  
+  .contato { 
+    font-size: 12px; 
+  } 
+  
+  .social-links { 
+    margin-top: 5px; 
+  } 
+  
+  .social-links a { 
+    text-decoration: none; 
+    color: #333333; 
+    margin-right: 5px; 
+  } 
+
+  *{
+    background-color: #939393;
+  }
+  
